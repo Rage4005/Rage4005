@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m Arman khan , a BCA student at Kristu Jayanti College specializing in analytics and computer science.<br>🤖 Currently serving as the Lead of the UiPath Club, focusing on process automation and AI applications.<br>💻 Proficient in UiPath, .NET, Java, Python, and web development technologies.<br>🔒 Passionate about cybersecurity and safeguarding digital environments.<br>🚀 Dedicated to continuous learning and developing innovative solutions across various domains.
+👋 I’m Arman khan , a BCA student at Kristu Jayanti College specializing in analytics and computer science.<br>🤖 Currently serving as the core member of the UiPath Club, focusing on process automation and AI applications.<br>💻 Proficient in UiPath, .NET, Java, Python, and web development technologies.<br>🔒 Passionate about cybersecurity and safeguarding digital environments.<br>🚀 Dedicated to continuous learning and developing innovative solutions across various domains.
 
 
 # 💻 Tech Stack:
