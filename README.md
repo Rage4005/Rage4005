@@ -1,6 +1,6 @@
 ![tenor](https://github.com/user-attachments/assets/d2e8776b-737c-4f80-b354-00d0af5f04ba)
 # 💫 About Me:
-👋 I’m Arman khan, UiPath Student Developer Champion 2025.<br> a BCA student at Kristu Jayanti College specializing in analytics and computer science.<br>🤖focusing on process automation and Generative AI Developer .<br>💻 Proficient in UiPath, .NET, Java, Python, and web development technologies.<br>🔒 Passionate about cybersecurity and safeguarding digital environments.<br>🚀 Dedicated to continuous learning and developing innovative solutions across various domains.
+👋 I’m Arman khan, UiPath Student Developer Champion 2025.<br> BCA student at Kristu Jayanti College specializing in analytics and computer science.<br>🤖focusing on process automation and Generative AI Developer .<br>💻 Proficient in UiPath, .NET, Java, Python, and web development technologies.<br>🔒 Passionate about cybersecurity and safeguarding digital environments.<br>🚀 Dedicated to continuous learning and developing innovative solutions across various domains.
 
 
 
