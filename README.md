@@ -13,8 +13,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/greed-d/count.svg?"  />
 </div>
-
-[![Arman khan profile views](https://u8views.com/api/v1/github/profiles/192941793/views/day-week-month-total-count.svg)](https://u8views.com/github/Rage4005)
 ###
 <br>
 
