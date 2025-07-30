@@ -12,6 +12,7 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/greed-d/count.svg?"  />
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Rage4005)
 </div>
 
 <br>
