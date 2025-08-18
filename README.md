@@ -1,5 +1,5 @@
 ![tenor](https://github.com/user-attachments/assets/d2e8776b-737c-4f80-b354-00d0af5f04ba)
-<h2 align="center">❂ I am Arman Khan</h2>
+<h2 align="center">😶‍🌫️ I am Arman Khan</h2>
 
 <h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science  specializing in analytics, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in computer science while actively exploring emerging technologies.</h4>
 
