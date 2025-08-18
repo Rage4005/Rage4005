@@ -31,5 +31,7 @@
 <img src="https://raw.githubusercontent.com/greed-d/greed-d/output/snake.svg" alt="Snake animation" />
 
 ###
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
+<p>⚠️ This README is uniquely designed by <strong>Arman Khan</strong>.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
