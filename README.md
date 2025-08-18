@@ -81,7 +81,7 @@
 <img src="https://raw.githubusercontent.com/greed-d/greed-d/output/snake.svg" alt="Snake animation" />
 
 ###
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
 
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
