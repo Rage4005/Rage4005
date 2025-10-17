@@ -26,9 +26,9 @@
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
  <h3 align="center">
-  <img src="./assets/icons/user-white.svg" width=15>
+  <img src="./user-white.svg" width=15>
   A Little More About Me 
-  <img src="./assets/icons/user-black.svg" width=15>
+  <img src="./user-black.svg" width=15>
  </h3>
 
  ⬛ I enjoy being around more experienced people who challenge me to grow.</br>
