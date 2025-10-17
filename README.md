@@ -1,8 +1,6 @@
 ![tenor](https://github.com/user-attachments/assets/d2e8776b-737c-4f80-b354-00d0af5f04ba)
 <h2 align="center">😶‍🌫️ I am Arman Khan</h2>
 
-<h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science  specializing in analytics, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in computer science while actively exploring emerging technologies.</h4>
-
  <div align="center">
 <!-- Profile Views -->
 <a href="https://github.com/Rage4005" target="_blank">
@@ -22,18 +20,25 @@
 
 </div>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
- <h3 align="left">💫 About Me</h3>
 
 
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
-<h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and experience in ASP.net MVC.</br>
- 💬 Skills I acquire in programming languages such as Python, SQL.</br>
- ⚡ Interest in AI/ML, Data Science, Automation, Data Analysis, Software Development.</br>
- ✨ I only like perfection.</h4> <div align="left"> 
+ <h3 align="center">
+  <img src="./assets/icons/user-white.svg" width=15>
+  A Little More About Me 
+  <img src="./assets/icons/user-black.svg" width=15>
+ </h3>
+
+ ⬛ I enjoy being around more experienced people who challenge me to grow.</br>
+ ⬜ Currently working on projects with React.  </br>
+ ⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
+ ⬜ Interested in any large-scale project that makes me think.</br>
+ ⬛ Minimalism enthusiast.
+ ㅤ
+  <!-- spotify and more --> 
+  <div align="center"> 
    
 <h3>🧲 Connect me :</h3>
 <a href="mailto:armankhanssjfyj999@gmail.com">
